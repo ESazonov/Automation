@@ -3,7 +3,7 @@ package HomeWork.Task01;
 import java.util.Scanner;
 
 /**
- * Created by Admin on 27.10.2016.
+ * Created by Admin on 27.10.2016..
  */
 public class Sub01 {
     public static void main(String[] args) {
